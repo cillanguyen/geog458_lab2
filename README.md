@@ -16,40 +16,26 @@
 
 ### Purpose
 
-For this research I have decided to do it based on the most popular drinks that people
-are currently drinking which is milk tea and matcha.
+For this research, I have chosen to focus on the most popular drinks currently consumed by people, namely milk tea and matcha.
 
 ### Reason
 
-I wanted to make this comparison because I wanted to explore the similar vocabs
-that these drinks might have in similar. I wanted to analyze any vocabs that they
-both have and why might that be.
+I embarked on this comparison to explore potential similarities in the vocabulary associated with these drinks. My aim was to analyze common words and understand the reasons behind their prevalence.
 
 ### Comparison
 
-While looking at both word clouds I have notice a few words that both word clouds have
-and that is tea, make and recipes. It seems like there is alot of recipes on how to
-make these drinks. A differences is matcha has more vocabs containing easy, simple
-and go. While milk tea have time, cook and boba. This is probably because milk tea is
-time consuming, while matcha is easy since it only required 3 items to make the drink.
+Upon examining both word clouds, I observed several shared words such as tea, make, and recipes. It appears that there is a significant emphasis on recipes for preparing these drinks. However, there are differences; matcha's vocabulary includes words like easy, simple, and go, while milk tea features words like time, cook, and boba. This distinction arises from the time-consuming nature of milk tea preparation compared to the simplicity of matcha, which requires only three ingredients.
 
 ### Reason for the Outcome
 
-The reason is the two drinks are quite different from each other. One requires
-more items while the other don't require that much items. And in order to make
-milk tea you would need to make boba as well.
+The distinct nature of the two drinks contributes to the observed differences. One requires more ingredients, including the preparation of boba, while the other is simpler and requires fewer components.
 
 ### Future
 
-My research can be improved in the future if I looked further into which drink
-take the most time and compare it to further identity if the word cloud is right.
-Because not all milk tea requires boba.
+To enhance my research in the future, I could delve deeper into the time required for each drink's preparation. This would allow for a more accurate assessment of whether the word cloud aligns with the actual characteristics of each drink, considering that not all milk tea variations involve the inclusion of boba.
 
 ### Anything unexpected?
 
-The word cloud basically simplified the results that I would have expected
-for each of these drinks. If I were to name one thing for the match word cloud
-I have noticed that more is one of the word that was found. I don't know if that
-really says anything about matcha.
+The word cloud effectively condensed the anticipated results for each drink. However, an interesting observation in the matcha word cloud was the prevalence of the word "more." While it's uncertain what this specifically signifies about matcha, it adds an element of curiosity to the analysis.
 
 
