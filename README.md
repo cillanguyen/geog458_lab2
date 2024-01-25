@@ -1,6 +1,19 @@
 # GEOG 458 - Lab 2
 ## Web data collection and visualization
 
+### Project Results
+
+#### CSV Files
+
+- [Matcha CSV](assets/search-result-1)
+- [Milk Tea CSV](assets/search-result-2%204.05.22%20PM.csv)
+
+#### Word-Cloud Images
+
+- [Match Word-Cloud](img/word-cloud-1%204.05.22%20PM.png)
+- [Milk Tea Word-Cloud](img/word-cloud-2%204.05.23%20PM.png)
+
+
 ### Purpose
 
 For this research I have decided to do it based on the most popular drinks that people
