@@ -1,4 +1,5 @@
-# geog458_lab2
+# GEOG 458 - Lab 2
+## Web data collection and visualization
 
 - Please create a narrative based on your research. In your narrative, please describe
 the topic as well as the parameters you have used for search (5 PTS)
