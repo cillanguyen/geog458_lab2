@@ -5,13 +5,13 @@
 
 #### CSV Files
 
-- [Matcha CSV](assets/search-result-1%204.05.22%20PM.csv)
-- [Milk Tea CSV](assets/search-result-2%204.05.22%20PM.csv)
+- [Matcha CSV (search-result-1)](assets/search-result-1%204.05.22%20PM.csv)
+- [Milk Tea CSV (search-result-2)](assets/search-result-2%204.05.22%20PM.csv)
 
 #### Word-Cloud Images
 
-- [Match Word-Cloud](img/word-cloud-1%204.05.22%20PM.png)
-- [Milk Tea Word-Cloud](img/word-cloud-2%204.05.23%20PM.png)
+- [Match Word-Cloud (word-cloud-1)](img/word-cloud-1%204.05.22%20PM.png)
+- [Milk Tea Word-Cloud(word-cloud-2)](img/word-cloud-2%204.05.23%20PM.png)
 
 
 ### Purpose
